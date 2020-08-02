@@ -1217,8 +1217,7 @@ section.lazy-placeholder:after {
   top: 180px;
   padding: 10px;
   border-radius: 50%;
-  color: #585858;
-  background: #c8c6c6;
+  background: #222;
   opacity: .5;
 }
 .cid-s2YdzV3OFe .carousel-controls a:hover span {
